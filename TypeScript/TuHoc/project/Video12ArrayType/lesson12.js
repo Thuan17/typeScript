@@ -1,0 +1,1 @@
+let myarr=["thuan",17]
